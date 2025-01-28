@@ -15,3 +15,8 @@ Official onboarding guide:
 - Don't ask me if you will get a job with CUDA. Pray Lord Jensen Huang (🙏 ) every morning and you'll land one.
 - If your girlfriend/boyfriend broke up with you, it's a good reason to start coding. It eases the pain.
 - Don't complain you slept only 4 hours today, be happy you have 20 hours to code CUDA kernels.
+
+
+## Nvidia CUDA Docs:
+
+https://docs.nvidia.com/cuda/cuda-c-programming-guide/#introduction
